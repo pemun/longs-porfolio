@@ -1,0 +1,59 @@
+.img-thumbnail{
+	width: 150px;
+	margin: 0.5em;
+}
+
+.jumbotron{
+	text-align: center;
+    height: 95%;
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%, 
+    	#03A9F4 0%, #2196F3 47.7%, #3F51B5 92.3%);
+    color: white;
+}
+
+#arrow-down{
+    text-align: center;
+    margin-top: -30px;
+}
+
+section{
+    padding: 4em 1em;
+    text-align: center;
+}
+
+section h2{
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-bottom: 2em;
+}
+
+.div-center{
+    margin: 0 auto;
+}
+
+#projects{
+    background: #f7f7f7;
+    text-align: left;
+}
+
+#project h2{
+    text-align: center;
+}
+
+.card{
+    box-shadow: 0px 1px 27px -3px rgba(0, 0, 0, 0.2);
+} 
+
+#contact{
+    background: #f7f7f7;
+}
+
+footer{
+    text-align: center;
+    padding: 1em;
+    background: rgba(0, 0, 0, 0.8);
+    color: grey;
+}
